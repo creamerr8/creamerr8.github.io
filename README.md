@@ -1,8 +1,13 @@
 ## Ryan Creamer Learning Journal
 
-You can use the [editor on GitHub](https://github.com/creamerr8/creamerr8.guthub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# What is Growth mindset?
+To me growth mindset is being open to new challanges and learning how to work with them instead of avoing them. FOr example, I played soccer for most of my life and always thought i was better than the other kids i played with, however once i got to a level where kids were more skilled and athletic my abilities were not the best. Since these kids had played at a higher level for a long period of time i had to catch up to compete at the same level and instead of just being ok where i was at I needed to get better, GROW! So i kept the mindset that even if youre better than someone at a particular thing there is always someone one step ahead and you can always be better and grow your knowladge no matter what it is. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Always Remember!
+1. To keep a growth mindset alwasy know that you are never the best at what you do even if it may seem that way, someone is always just that much better adn they only way to get there yourself is to keep working and keep learning.
+2. Perservere! you will always face some sort of challange in life, and you just have to work with them, dont evrer let them hold you back from acomplishing something.
+3. 
+
 
 ### Markdown
 
