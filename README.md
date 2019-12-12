@@ -21,7 +21,7 @@ To me growth mindset is being open to new challanges and learning how to work wi
 - Anytime you make a change to your code always ACP
 
 #### ACP Reflections
-- 
+- In class we learned the definition of ACP, as well how to do ACP through the terminal. Along with doing your ACP you shoud be running get status after every action. Once when you get all the way through you ACP and finish pushing through your code to the cloud, check your status one last time and it should have a block of code that will popup and generaly that means you did everything correctly. 
 
 
 
