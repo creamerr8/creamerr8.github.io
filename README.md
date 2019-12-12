@@ -11,6 +11,9 @@ To me growth mindset is being open to new challanges and learning how to work wi
 2. Perservere! you will always face some sort of challange in life, and you just have to work with them, dont evrer let them hold you back from acomplishing something.
 3. Always be wiling to learn from others, it can make a huge differance in how fast you can grow. 
 
+### Day 3 ACP
+
+
 
 
 
