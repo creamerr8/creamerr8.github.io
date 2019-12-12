@@ -11,6 +11,11 @@ To me growth mindset is being open to new challanges and learning how to work wi
 2. Perservere! you will always face some sort of challange in life, and you just have to work with them, dont evrer let them hold you back from acomplishing something.
 3. Always be wiling to learn from others, it can make a huge differance in how fast you can grow. 
 
+### Day 2 Computer Setup
+- Download Ubuntu and link it to my local machine
+- Download and setup all addons for terminal
+- get ready to use it to start using git 
+
 ### Day 3 ACP
 - ACP stands for _Add_, _Commit_, _Push_
 - Anytime you make a change to your code always ACP
