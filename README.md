@@ -12,6 +12,8 @@ To me growth mindset is being open to new challanges and learning how to work wi
 3. Always be wiling to learn from others, it can make a huge differance in how fast you can grow. 
 
 ### Day 3 ACP
+- ACP stands for _Add_, _Commit_, _Push_
+- Anytime you make a change to your code always ACP
 
 
 
